@@ -1,0 +1,22 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#seodoctor-window #about_name {
+  color: #f1d7a4 !important;
+  text-decoration: underline;
+}
+#seodoctor-window #about_compete {
+  color: #f1d7a4 !important;
+  text-decoration: underline;
+}
+#seodoctor-window #about_link {
+  color: #f1d7a4 !important;
+}
+#seodoctor-window #about_feedback {
+  color: #f1d7a4 !important;
+  text-decoration: underline;
+}
+
+#seodoctor-dashboard-stats-content label,
+#seodoctor-dashboard-stats-content description {
+  color: black;
+}

@@ -1,0 +1,58 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#formhistoryPrefs .shortcutTextbox{
+  background-color: #002e0c !important;
+}
+
+#formhistoryPrefs treechildren::-moz-tree-row {
+  background-color: #002e0c !important;
+}
+#formhistoryPrefs treechildren::-moz-tree-row(odd) {
+  background-color: #002e0c !important;
+}
+#formhistoryPrefs treechildren::-moz-tree-row(selected) {
+  background: #129900 url("chrome://global/skin/url-hover.png") repeat-x left center;
+}
+#formhistoryPrefs treechildren::-moz-tree-row(odd, selected) {
+  background: #129900 url("chrome://global/skin/url-hover.png") repeat-x left center;
+}
+#formhistoryPrefs treechildren::-moz-tree-row(hover) {
+  background: #129900 url("chrome://global/skin/url-hover.png") repeat-x left center;
+}
+#formhistoryPrefs treechildren::-moz-tree-row(hover, selected) {
+  background: #129900 url("chrome://global/skin/url-hover.png") repeat-x left center;
+}
+#formhistoryPrefs treechildren::-moz-tree-checkbox {
+  list-style-image: url("chrome://global/skin/checkbox/checked.png");;
+}
+#formhistoryPrefs treechildren::-moz-tree-checkbox(checked){
+  list-style-image: url("chrome://global/skin/checkbox/unchecked.png");
+}
+
+#formhistoryWindow #blacklist > label {
+  color: #f1d7a4 !important;
+}
+
+#formhistoryWindow .searchtype-button {
+  height: 28px !important;
+}
+
+#formhistoryWindow treechildren::-moz-tree-row { 
+  background-color: #002e0c !important;
+}
+#formhistoryWindow treechildren::-moz-tree-row(selected) {
+  background: #129900 url("chrome://global/skin/url-hover.png") repeat-x left center;
+}
+#formhistoryWindow treechildren::-moz-tree-row(odd) {
+  background-color: #002e0c !important;
+}
+#formhistoryWindow treechildren::-moz-tree-row(odd, selected) {
+  background: #129900 url("chrome://global/skin/url-hover.png") repeat-x left center;
+}
+
+#formhistoryWindow treechildren::-moz-tree-row(hover) {
+  background: #129900 url("chrome://global/skin/url-hover.png") repeat-x left center;
+}
+#formhistoryWindow treechildren::-moz-tree-row(hover, selected) {
+  background: #129900 url("chrome://global/skin/url-hover.png") repeat-x left center;
+}

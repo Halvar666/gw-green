@@ -1,0 +1,24 @@
+#aboutDialog {
+  background: #002e0c url("chrome://global/skin/toolbar/sidebar-bg.png") repeat left top;
+}
+#aboutDialog #clientBox {
+  background-color: transparent;
+  color: #f1d7a4;
+}
+#aboutDialog #rightBox {
+  background-image: url("chrome://global/skin/about-wordmark.png");
+}
+
+#aboutDialog #updateButton {
+  padding-left: 11px;
+}
+#aboutDialog #updateButton > .button-box{
+  height: 28px;
+}
+#aboutDialog #updateButton > .button-box > .button-text{
+  padding-top: 4px;
+}
+
+#aboutDialog > #aboutDialogContainer  > #clientBox > #rightBox > #detailsBox > #updateBox > #updateDeck label {
+  color: #f1d7a4;
+}

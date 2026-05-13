@@ -1,0 +1,19 @@
+GW Green 34.0
+==============
+
+Initial public release for Pale Moon 34.
+
+GW Green is a complete theme for Pale Moon derived from the original Glowy Green Firefox theme by glowplug / Greg Broadbent and maintained by Halvar666.
+
+Package metadata:
+  Name: GW Green
+  Version: 34.0
+  ID: gw-green@Halvar666
+  Internal skin name: gwgreen
+  Pale Moon compatibility: 34.0 - 34.*
+  License: GPL-3.0-only
+
+Notes:
+  This release uses Pale Moon milestone-based versioning. The first number follows the Pale Moon milestone series, and the second number is the GW Green release number within that milestone.
+
+  The original Firefox Glowy Green add-on was archived on AMO with the license listed as GNU General Public License v3.0.

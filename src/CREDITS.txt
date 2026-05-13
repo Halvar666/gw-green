@@ -1,0 +1,20 @@
+GW Green credits
+================
+
+Current theme:
+  GW Green
+  Pale Moon port / maintenance: Halvar666
+  Theme ID: gw-green@Halvar666
+  Versioning: Pale Moon milestone-based, starting with 34.0
+  License: GPL-3.0-only
+
+Original theme:
+  Glowy Green for Firefox
+  Original author: glowplug / Greg Broadbent
+  AMO add-on ID: glowygreen-8891
+  Original Firefox-era package used as base: glowygreen-10.0.02-fx.xpi
+  Archived AMO license listing: GNU General Public License v3.0
+  Archived AMO URL:
+    https://web.archive.org/web/20170904235147/https://addons.mozilla.org/en-US/firefox/addon/glowygreen-8891/?src=userprofile
+
+This fork preserves attribution to the original author while using a distinct name and add-on ID for the Pale Moon continuation.

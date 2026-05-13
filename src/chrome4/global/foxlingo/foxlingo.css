@@ -1,0 +1,14 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#foxlingo-install-dialog label {
+  color: #f1d7a4 !important;
+}
+
+#foxlingo-options-dialog label {
+  color: #f1d7a4 !important;
+}
+
+.foxlingo-linklabel {
+  color: #f1d7a4 !important;
+}
+

@@ -1,0 +1,10 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#hf_RequestTree treechildren::-moz-tree-row {
+	background-color: #002e0c;
+  color: #f1d7a4;
+}
+#hf_RequestTree treechildren::-moz-tree-cell-text{
+	background-color: #002e0c;
+  color: #f1d7a4;
+}

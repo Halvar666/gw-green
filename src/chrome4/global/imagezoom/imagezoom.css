@@ -1,0 +1,20 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+#wf_tabbox #mainmenu {
+  background-color: #002e0c;
+  border: 1px solid #dfd2b7;
+  -moz-border-radius: 4px;
+}
+#wf_tabbox #submenu {
+  background-color: #002e0c;
+  border: 1px solid #dfd2b7;
+  -moz-border-radius: 4px;
+}
+#wf_tabbox #subrotatemenu {
+  background-color: #002e0c;
+  border: 1px solid #dfd2b7;
+  -moz-border-radius: 4px;
+}
+#wf_tabbox  #visitHome{
+  color: #f1d7a4;
+}
