@@ -1,0 +1,14 @@
+GW Green 35.0.0
+=================
+
+Pale Moon 35 milestone compatibility update.
+
+Changes from GW Green 34.0:
+- Theme version updated to 35.0.0.
+- Pale Moon compatibility extended through 35.*; minimum version remains 34.0.
+- No visual or behavioral changes.
+
+GW Green is derived from the original Glowy Green Firefox theme by
+glowplug / Greg Broadbent and is maintained by Halvar666.
+
+License: GPL-3.0-only
