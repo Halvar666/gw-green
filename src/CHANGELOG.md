@@ -1,5 +1,11 @@
 # GW Green changelog
 
+## 35.0.0 - Pale Moon 35 compatibility
+
+- Updated theme version to **35.0.0** for the Pale Moon 35 milestone.
+- Extended Pale Moon compatibility through **35.*** while retaining the minimum version at **34.0**.
+- No visual or behavioral theme changes; this is a compatibility/metadata update based on the confirmed GW Green 34.0 release.
+
 ## 34.0 - Initial Pale Moon 34 release
 
 Initial public GW Green release for Pale Moon 34.
