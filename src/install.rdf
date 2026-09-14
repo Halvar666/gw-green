@@ -5,19 +5,19 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>gw-green@Halvar666</em:id>
-    <em:version>34.0</em:version>
+    <em:version>35.0.0</em:version>
     <em:type>4</em:type>
 
     <em:targetApplication>
       <Description>
         <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
         <em:minVersion>34.0</em:minVersion>
-        <em:maxVersion>34.*</em:maxVersion>
+        <em:maxVersion>35.*</em:maxVersion>
       </Description>
     </em:targetApplication>
 
     <em:name>GW Green</em:name>
-    <em:description>GW Green is a Pale Moon 34 complete theme derived from the original Glowy Green Firefox theme by glowplug / Greg Broadbent. Maintained by Halvar666.</em:description>
+    <em:description>GW Green is a Pale Moon 35 complete theme derived from the original Glowy Green Firefox theme by glowplug / Greg Broadbent. Maintained by Halvar666.</em:description>
     <em:creator>Halvar666</em:creator>
     <em:contributor>glowplug / Greg Broadbent - original Glowy Green theme</em:contributor>
     <em:developer>Halvar666</em:developer>
